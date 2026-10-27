@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Adham Tursunboev — a Software Engineer.</h1>
+<h1 align="center">👋 Hi, I'm Adhambek Tursunboev — a Software Engineer.</h1>
 
 <p align="center">
    🚀 Full-Stack Developer (Node.js • React.js)
@@ -74,7 +74,7 @@ My development approach is centered around writing reliable code, improving perf
 
 
 <p align="center">
-  <a href="https://t.me/@Adham0119"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/@Adhambek0119"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/adham-tursunboev-9a2bb938a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:adham011905@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" /></a>
 </p>
